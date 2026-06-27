@@ -1,0 +1,15 @@
+{
+  "name": "kungfupanda",
+  "version": "1.0.0",
+  "description": "strike once. strike clean. — Claude Code skill that cuts 75% of tokens through precision discipline",
+  "keywords": ["claude", "claude-code", "ai", "tokens", "skill", "llm", "prompt-engineering", "automation"],
+  "homepage": "https://github.com/yourusername/kungfupanda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/kungfupanda.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
