@@ -1,0 +1,24 @@
+{
+  "name": "kungfupanda",
+  "version": "1.0.0",
+  "description": "strike once. strike clean. — cuts ~75% Claude output tokens through precision discipline",
+  "author": "Joshuaraajan20",
+  "homepage": "https://github.com/Joshuaraajan20/Kungfupanda",
+  "skills": [
+    "skills/kungfupanda/SKILL.md",
+    "skills/strike/SKILL.md"
+  ],
+  "commands": [
+    "commands/kungfupanda.md",
+    "commands/commit.md",
+    "commands/review.md",
+    "commands/stats.md",
+    "commands/compress.md"
+  ],
+  "triggers": [
+    "/kungfupanda",
+    "panda mode",
+    "strike mode"
+  ],
+  "auto_activate": true
+}
